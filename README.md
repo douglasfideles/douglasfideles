@@ -1,4 +1,4 @@
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate Software Engineer with a strong background in backend development, infrastructure management, and problem-solving. I love exploring new technologies, tackling challenging problems, and collaborating with others to build innovative solutions.</h3>
+<h3>Welcome to my GitHub profile! I'm a passionate Software Engineer with a strong background in backend development, infrastructure management, and problem-solving. I love exploring new technologies, tackling challenging problems, and collaborating with others to build innovative solutions.</h3>
 
 - 🔭 I’m currently working on [Zup Innovation](https://www.zupinnovation.com/)
 
